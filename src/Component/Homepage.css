@@ -1,0 +1,125 @@
+.navbar{
+    display: flex;
+}
+.Services{
+    display: flex;
+    margin-left: 30%;
+
+
+}
+.chem_swot_title{
+    display: flex;
+}
+ .Services p{
+   font-size: 30px;
+   padding-left: 3rem;
+    
+}
+.container{
+    margin-left: 5%;
+}
+.button{
+    background-color: rgb(230, 149, 73);
+    color: white;
+    font-size: 2rem;
+    height: 5rem;
+    width: 13rem;
+    border-radius: 6rem;
+    border: none;
+    margin-top: 10%;
+}
+.main{
+    display: flex;
+    width: 100%;
+}
+.Image{
+    /* margin-right: 20%; */
+    margin-top: 4%;
+    width: 100%;
+   
+}
+.Image img{  
+    height:30rem;
+    width:37rem;
+}
+.title{
+    padding-top: 1.2rem;
+}
+.title1{
+    font-size: 2.8rem; 
+    padding-top: 1.2rem;
+}
+.title2{
+    font-size: 1.5rem;
+    padding-top: 1.2rem;
+}
+
+.img{
+    margin: auto;
+    width: 6rem;
+    height: 6rem;
+    
+}
+.card{
+    border: none;
+    margin-left: 30%;
+    justify-content: center;
+    width: 17rem;
+    height: 20rem;
+    border-radius: 1rem;
+    
+}
+.card:hover{
+    background-color: rgb(250, 246, 246);
+    border-top: 2px solid rgba(255, 0, 0, 0.438);
+}
+.card p{
+    text-align: center;
+}
+.txt{
+    font-size: 1.3rem;
+}
+.head{
+    font-size: 2rem;
+}
+.main_title{
+    font-size: 3rem;
+}
+
+
+.new{
+    background-color: rgb(199, 211, 243);
+    width: 100%;
+    height: 30vh;
+    border-radius: 1.7rem;
+    margin-top: 3rem;
+}
+.square{
+    text-align: center;
+}
+.square p{
+    color: white;
+    font-weight:bold;
+}
+.square2{
+    background-color: white;
+    text-align:center;
+    height: 30vh;
+    width:100%;
+    border-radius: 9rem;
+    padding-top: 1rem;
+}
+.session3{
+    margin-top: 10%;
+    height: 70vh;
+    background-color: #f2f7f7;
+}
+.final_but{
+    width: 10rem;
+    height: 3rem;
+    border: none;
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    color:rgb(199, 211, 243);
+    background-color: white;
+}
